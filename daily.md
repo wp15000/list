@@ -1,6 +1,6 @@
 # 各位の振り返りへのリンク
 
-- <a href="https://github.com/wp15000/daily/blob/master/furikaeri.md" target="_blank">山内公之</a>
+- <a href="https://github.com/wp15000/first/blob/master/furikaeri.md" target="_blank">山内公之</a>
 - <a href="https://github.com/wp15001/daily/blob/master/furikaeri.md" target="_blank">古井志保子</a>
 - <a href="https://github.com/wp15002/daily/blob/master/furikaeri.md" target="_blank">前原裕幸</a>
 - <a href="https://github.com/wp15003/daily/blob/master/furikaeri.md" target="_blank">比嘉共彦</a>
