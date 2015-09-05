@@ -1,4 +1,4 @@
-# 各位の振り返りへのリンク
+# 振り返りへのリンク
 
 - <a href="https://github.com/wp15000/first/blob/master/furikaeri.md" target="_blank">山内公之(wp15000)</a>
 - <a href="https://github.com/wp15001/daily/blob/master/furikaeri.md" target="_blank">古井志保子(wp15001)</a>
