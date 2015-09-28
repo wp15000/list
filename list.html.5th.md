@@ -15,7 +15,7 @@
 	<li><a href="http://wp15011.github.io/html.1st" target="_blank">齋藤勇治(wp15011)</a>
 	<li><a href="http://wp15012.github.io/html.1st" target="_blank">堀川あきえ(wp15012)</a>
 	<li><a href="http://wp15013.github.io/html.1st" target="_blank">神山裕康(wp15013)</a>
-	<li><a href="http://wp15014.github.io/html.1st" target="_blank">知念琴絵(wp15014)</a>
+	<li><a href="http://wp15014.github.io/practice/index.html" target="_blank">知念琴絵(wp15014)</a>
 	<li><a href="http://wp15015.github.io/html.1st" target="_blank">比嘉将太(wp15015)</a>
 	<li><a href="http://wp15016.github.io/html.1st" target="_blank">畠中亜由美(wp15016)</a>
 	<li><a href="http://wp15017.github.io/html.1st" target="_blank">赤嶺哲平(wp15017)</a>
