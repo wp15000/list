@@ -15,7 +15,7 @@
 <li>堀川あきえ(wp15012)
 <li>神山裕康(wp15013)
 <li><a href="http://wp15014.github.io/practice/index.html" target="_blank">知念琴絵(wp15014)</a>
-<li>比嘉将太(wp15015)
+<li><a href="http://wp15015.github.io/Private_Practice.2nd/index.html" target="_blank">比嘉将太(wp15015)</a>
 <li>畠中亜由美(wp15016)
 <li>赤嶺哲平(wp15017)
 <li>比嘉和也(wp15018)
