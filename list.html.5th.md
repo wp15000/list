@@ -21,6 +21,6 @@
 <li>赤嶺哲平(wp15017)</li>
 <li>比嘉和也(wp15018)</li>
 <li>阿嘉純也(wp15019)</li>
-<li>崎原純(wp15020)</li>
+<li><a href="http://wp15020.github.io/golf/" target="_blank">崎原純(wp15020)</a></li>
 <li>東江美和(wp15021)</li>
 </ul>
