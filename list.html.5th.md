@@ -6,11 +6,11 @@
 <li>前原裕幸(wp15002)</li>
 <li>比嘉共彦(wp15003)</li>
 <li>瑞慶山君子(wp15004)</li>
-<li>久銘次あかね(wp15005)</li>
+<li><a href="http://wp15005.github.io/practice/practice.html" target="_blank">久銘次あかね(wp15005)</a></li>
 <li><a href="http://wp15006.github.io/html.6th/" target="_blank">岡田安民(wp15006)</a></li>
 <li>石郷岡寛(wp15007)</li>
 <li>倉本由記(wp15008)</li>
-<li>奥間朝文(wp15009)</li>
+<li><a href="http://wp15009.github.io/training/" target="_blank">奥間朝文(wp15009)</a></li>
 <li><a href="http://wp15010.github.io/study/" target="_blank">菊池喜之(wp15010)</a></li>
 <li><a href="http://wp15011.github.io/neko/" target="_blank">齋藤勇治(wp15011)</a></li>
 <li>堀川あきえ(wp15012)</li>
